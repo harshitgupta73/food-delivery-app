@@ -1,0 +1,51 @@
+{
+  "restaurants": [
+    {
+      "id": "r1",
+      "name": "Pizza Palace",
+      "cuisine": "Italian",
+      "rating": 4.5,
+      "imageUrl": "https://images.unsplash.com/photo-1548365328-5b849e92ed4c",
+      "menu": [
+        {
+          "id": "m1",
+          "name": "Margherita",
+          "description": "Classic cheese and tomato",
+          "price": 7.99,
+          "imageUrl": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366"
+        },
+        {
+          "id": "m2",
+          "name": "Pepperoni",
+          "description": "Spicy pepperoni and mozzarella",
+          "price": 9.49,
+          "imageUrl": "https://images.unsplash.com/photo-1601924582975-7aa6a4bcae1f"
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "name": "Spicy Hub",
+      "cuisine": "Indian",
+      "rating": 4.3,
+      "imageUrl": "https://images.unsplash.com/photo-1604908554049-4b0836ec7a4e",
+      "menu": [
+        {
+          "id": "m4",
+          "name": "Butter Chicken",
+          "description": "Creamy tomato gravy",
+          "price": 10.99,
+          "imageUrl": "https://images.unsplash.com/photo-1598214886800-11a95dc2a8d0"
+        },
+        {
+          "id": "m5",
+          "name": "Paneer Tikka",
+          "description": "Smoky and spicy",
+          "price": 9.99,
+          "imageUrl": "https://images.unsplash.com/photo-1604908176997-431c50b11e05"
+        }
+      ]
+    }
+  ]
+}
+
